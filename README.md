@@ -25,4 +25,4 @@ Adversarial attacks on 3D LiDAR point clouds, especially in the context of auton
 ### Conclusion:
 Adversarial attacks on LiDAR-based 3D point clouds pose significant risks, especially in critical applications like autonomous driving. Physical and digital adversarial methods have been developed, but promising defense strategies such as data augmentation and implicit function-based restoration are improving the robustness of perception systems.
 
-Like our GPT? Try our full AI-powered search engine and academic features for free at [consensus.app](https://consensus.app/?utm_source=chatgpt).
+
